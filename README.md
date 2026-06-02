@@ -104,19 +104,31 @@ I love turning ideas into real products. From building smart mobile apps with Fl
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VahithHasanS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VahithHasanS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+[![GitHub](https://img.shields.io/badge/Repositories-Public%20Projects-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VahithHasanS?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/VahithHasanS?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=302b63)](https://github.com/VahithHasanS)
+[![GitHub stars](https://img.shields.io/github/stars/VahithHasanS?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=ff6b6b)](https://github.com/VahithHasanS)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VahithHasanS&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+**Languages I work with most**
+
+![Dart](https://img.shields.io/badge/Dart-40%25-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-25%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-20%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-10%25-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Others](https://img.shields.io/badge/Others-5%25-888888?style=flat-square)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VahithHasanS&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ff6b6b&area=true)](https://github.com/VahithHasanS)
 
 </div>
 
