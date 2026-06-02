@@ -140,7 +140,7 @@ I love turning ideas into real products. From building smart mobile apps with Fl
 |:--------------|:--------|
 | 🥇 First Prize — 30-Hour Hackathon @ Crescita'26 | 2026 |
 | 🎓 NPTEL Certified — Cross Platform Mobile Development with Flutter | 2026 |
-| 📜 CSC Course Completion Certificate | 2025 |
+| 📜 CSC Course Completion Certificate | 2022 |
 | 🏅 Multiple Hackathon Participations & Technical Competitions | 2024–2026 |
 
 ---
